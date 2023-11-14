@@ -7,12 +7,16 @@
 ```shell
 cd <directory containing manage.py>
 ```
-3. Migrate the database
+3. Start the virtual environment
+```shell
+.venv\Scripts\Activate.ps1
+```
+4. Migrate the database
 ```shell
 python manage.py migrate
 ```
-4. Start the server
+5. Start the server
 ```shell
 python manage.py runserver
 ```
-5. Subsequent start up just run `step 4`
+### Subsequent start up just run `step 5`
