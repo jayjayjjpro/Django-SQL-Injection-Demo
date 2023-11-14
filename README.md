@@ -25,7 +25,7 @@ python -m venv venv
 
 4. Activate the virtual environment
 ```shell
-.venv\Scripts\Activate.ps1
+venv\Scripts\Activate.ps1
 ```
 
 5. Install Project Dependencies
