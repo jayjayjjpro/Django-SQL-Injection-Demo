@@ -42,4 +42,4 @@ python manage.py migrate
 ```shell
 python manage.py runserver
 ```
-### Subsequent start up just run `step 7`
+### Subsequent start up just run `step 4 and 7`
